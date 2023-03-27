@@ -1,1 +1,1 @@
-buildtogether.app
+<buildtogether.app>
