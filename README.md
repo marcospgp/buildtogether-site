@@ -1,1 +1,1 @@
-<buildtogether.app>
+<https://buildtogether.app>
