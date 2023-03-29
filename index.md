@@ -37,7 +37,7 @@ the application that powers this community. It is called Giza, because we are a
 bit like pyramid builders (I'll leave the details of that comparison for you to
 decide).
 
-> Who should join this community?
+> Who should join?
 
 Anyone interested in building cool things that feels they could benefit from a
 little companionship and accountability.
