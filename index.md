@@ -20,13 +20,5 @@ We encourage each other to focus on what is meaningful, with tools that help us
 hold each other accountable and prioritize the important things each person has
 to say.
 
-We are each other's initial audience. Initial traction is critical to getting
-your work in front of other people, and relying on luck and timing is not
-reliable.
-
-Geographical position matters - human proximity is important. We want to make it
-easy for people to know what's happening closer to them, along the lines of
-Pieter Level's work on [Nomad List](https://nomadlist.com/).
-
 To join, simply go to `discord.gg/AN74_XJ`, replacing the underscore with the
 first letter in the word "Zebra" (uppercase).
