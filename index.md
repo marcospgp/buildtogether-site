@@ -25,13 +25,13 @@ first letter in the word "Zebra" (uppercase).
 
 ## FAQ
 
-> Who is behind this community?
+> Who is behind this?
 
 Me, [Marcos](https://twitter.com/voxelbased). I do freelance programming for a
 living and also build my own projects. I've worked with AI, web, games with
 Unity, and more.
 
-> Where can I see which custom commands are available in the server?
+> Where can I see which custom commands are available?
 
 If you are reading this now you are actually quite early - I am still developing
 the application that powers this community. It is called Giza, because we are a
