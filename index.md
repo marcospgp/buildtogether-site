@@ -55,5 +55,5 @@ I often feel lonely and demotivated when working on my own, and social media
 has fallen short of solving this. I mainly end up spending a lot of time
 catching up on different people who are yelling into the void.
 
-I think this can be much better with the right functionality, and designed with
-the right incentives.
+I think this can be much better, designed with the right functionality and
+incentives.
