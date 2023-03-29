@@ -51,8 +51,7 @@ pre {
 // Blockquotes
 
 blockquote {
-  color: $code-background-color;
-  border-left: 4px solid $border-color-01;
+  border-left: 4px solid $code-background-color;
   padding-left: $spacing-unit * .5;
   font-size: 1.125em;
   font-style: italic;
