@@ -28,7 +28,8 @@ first letter in the word "Zebra" (uppercase).
 > Who is behind this community?
 
 Me, [Marcos](https://twitter.com/voxelbased). I do freelance programming for a
-living and also build my own projects.
+living and also build my own projects. I've worked with AI, web, games with
+Unity, and more.
 
 > Where can I see which custom commands are available in the server?
 
