@@ -45,3 +45,21 @@ pre {
     padding-left: 0;
   }
 }
+
+// Blockquotes
+
+blockquote {
+  color: $code-background-color;
+  border-left: 4px solid $border-color-01;
+  padding-left: $spacing-unit * .5;
+  font-size: 1.125em;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+
+  i, em {
+    font-style: normal;
+  }
+}
